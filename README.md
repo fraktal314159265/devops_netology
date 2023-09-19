@@ -1,3 +1,3 @@
 # devops_netology
 
-Жопа
+Меняем состояние	на midifier
